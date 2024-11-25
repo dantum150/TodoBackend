@@ -6,3 +6,12 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+// posts, comments, user, products, order
+
+// Module - PostController, PostService
+// Controller 
+// Service
+
+
+// localhost:3000/
